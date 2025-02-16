@@ -7,3 +7,5 @@ hello world c++
 hleoo world javaScri
 
 hello world java
+hello world pyhon
+hello world c++
